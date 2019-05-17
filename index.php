@@ -23,10 +23,6 @@
 
         </div>
 
-    <!-- TODO The 'skils side bar' is only intended to appear on the CV page -->
-        <aside class="skills_side_bar">
-
-        </aside>
 
         <?php include("includes/footer.php"); ?>
 
