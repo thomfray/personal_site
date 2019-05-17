@@ -49,6 +49,7 @@ body {
 
 #main_nav {
     font-size: 1.2rem;
+    border-bottom: #000 1px solid;
 }
 
 #main_nav ul {
@@ -68,8 +69,7 @@ body {
 
 #main_section {
     height: 400px;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 5%;
 }
 
 
