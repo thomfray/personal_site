@@ -51,8 +51,8 @@ body {
 
 #main_nav ul {
     display: grid;
-    justify-content: center;
-    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
 }
 
 #main_nav li {
