@@ -8,7 +8,7 @@
             <ul>
                 <a href="index.php"><li>Home</li></a>
                 <a href="cv.php"><li>CV</li></a>
-                <li>Blog</li>
-                <li>Featured Features</li>
+                <a href="blog.php"><li>Blog</li></a>
+                <a href="features.php"><li>Features</li></a>
             </ul>
         </nav>
