@@ -6,9 +6,9 @@
 <!-- Main Nav for all pages -->
         <nav id="main_nav">
             <ul>
-                <a href="index.php"><li>Home</li></a>
-                <a href="cv.php"><li>CV</li></a>
-                <a href="blog.php"><li>Blog</li></a>
-                <a href="features.php"><li>Features</li></a>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="cv.php">CV</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="features.php">Features</a></li>
             </ul>
         </nav>

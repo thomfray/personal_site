@@ -1,4 +1,6 @@
-/* Testing the link */
+* {
+    padding 0;
+}
 
 body {
     background-color:#999;
@@ -13,6 +15,11 @@ body {
     line-height:1.6em;
     margin:0;
     padding: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
 }
 
 .grid-wrapper {
@@ -39,11 +46,6 @@ body {
     background-image: url(https://www.freewebheaders.com/wordpress/wp-content/gallery/artistic-abstract-hero-headers/colorful-light-motion-fractal-artistic-abstract-splash-header-1920x1080.jpg)
 }
 
-#header_text {
-    display: inline-block;
-    vertical-align: middle;
-}
-
 #main_nav {
     background-color: #ccc;
     font-size: 1.2rem;
@@ -52,40 +54,14 @@ body {
 
 #main_nav ul {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns:   auto auto auto auto;
+    grid-gap: 5px;
     justify-items: center;
+
 }
 
 #main_nav li {
     list-style: none;
-    padding-left: 5%;
-    padding-right : 5%;
-    
-}
-
-
-#main_section {
-    padding: 5%;
-}
-
-
-#main_footer {
-    padding-left: 5%;
-    padding-right: 5%;
-}
-
-
-.cv-grid {
-    display: grid;
-    grid-template-columns: 4fr 1fr; 
-}
-
-
-a {
-    text-decoration: none;
-}
-
-
-a:hover {
-    color: red;
+    display: inline-block;
+    justify-content: center;
 }
