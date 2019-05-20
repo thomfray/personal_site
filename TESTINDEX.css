@@ -16,7 +16,8 @@
     grid-gap: 25px;
 }
 #nav > div {
-    justify-content: center;
+    display: grid;
+    justify-content: left;
     border: purple 1px solid;
     width: 100px;
 }
