@@ -17,7 +17,7 @@
 }
 #nav > div {
     display: grid;
-    justify-content: left;
+    justify-content: center;
     border: purple 1px solid;
     width: 100px;
 }
