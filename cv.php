@@ -10,7 +10,7 @@
 <body>
     <div class="grid-wrapper">
 
-        <?php include("includes/header-footer.php"); ?>
+        <?php include("includes/header-nav.php"); ?>
 
         <div id="main_section" class="cv-grid">
             <section class="main_text">
