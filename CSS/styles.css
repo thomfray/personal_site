@@ -1,7 +1,7 @@
 /* Testing the link */
 
 body {
-    background-color:#19055a; /*#260b4f;*/
+    background-color: #0d0d4c; /*#19055a #260b4f;*/
     color: #444;
     
     font-family: Arial, Helvetica, sans-serif;
@@ -92,7 +92,7 @@ ul {
 }
 
 
-#skill_side_bar {
+#side_bar {
     padding: 5%
 }
 
@@ -112,7 +112,7 @@ ul {
 }
 
 
-.cv-grid {
+#cv-grid {
     display: grid;
     grid-template-columns: 4fr 1fr;
     grid-column-gap: 25px;

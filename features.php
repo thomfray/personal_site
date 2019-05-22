@@ -30,8 +30,8 @@
 
         </div>
 
-    <!-- TODO The 'skils side bar' is only intended to appear on the CV page -->
-        <aside class="skills_side_bar">
+        
+        <aside class="side_bar">
             <p>Maybe include the side bar on this page?</p>
 
         </aside>

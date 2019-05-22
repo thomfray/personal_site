@@ -12,7 +12,7 @@
 
         <?php include("includes/header-nav.php"); ?>
 
-        <div id="cv-grid main_section" class="main_section" >
+        <div id="cv-grid" class="main_section">
             <section class="main_text">
                 <h2>Profile</h2>
 
@@ -39,7 +39,7 @@
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et iure ab ipsa amet, corrupti libero consectetur, assumenda a atque fuga minima quam tempora suscipit quisquam expedita natus quas alias tenetur.</p>
             </section>
 
-            <aside id="skills_side_bar">
+            <aside id="side_bar">
                 <h3>My Skills!</h2>
                 <ul>
                     <li>SQL</li>
