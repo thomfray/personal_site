@@ -12,7 +12,7 @@
 
         <?php include("includes/header-nav.php"); ?>
 
-        <div id="main_section" class="cv-grid">
+        <div id="cv-grid main_section" class="main_section" >
             <section class="main_text">
                 <h2>Profile</h2>
 

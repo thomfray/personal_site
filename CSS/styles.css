@@ -80,11 +80,11 @@ ul {
 }
 
 
-#main_section {
+.main_section {
     padding: 4% 10%;
 }
 
-#main_section li {
+.main_section li {
     list-style-position: inside;
     margin-left: 30px;
     padding-left: 30px;
@@ -96,6 +96,14 @@ ul {
 }
 
 
+/*  BLOG    */
+
+.post:last-child {
+    margin-bottom: 20px;
+}
+
+
+/*  FOOTER  */
 
 #main_footer {
     padding-left: 5%;

@@ -15,7 +15,7 @@
 
         <?php include("includes/header-nav.php"); ?>
 
-        <div id="main_section">
+        <div id="main_section_home" class="main_section">
             <h1>What is this site about?</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?

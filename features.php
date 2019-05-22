@@ -12,7 +12,7 @@
 
         <?php include("includes/header-nav.php"); ?>
 
-        <div id="main_section">
+        <div id="main_section_features" class="main_section">
             <h1>Featured Features</h1>
             <h2>What's this page about?</h2>
             <p>This page will be a showcase for various skills and features.</p>
