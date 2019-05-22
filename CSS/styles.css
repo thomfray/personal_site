@@ -25,7 +25,8 @@ ul {
 .grid-wrapper {
     display: grid;
     background-color: #f4f4f4;
-    width: 80%;
+    width: 80vw;
+    min-height: 100vh;
     margin: auto;
     border-left: #000 1px solid;
     border-right: #000 1px solid;
@@ -81,7 +82,7 @@ ul {
 
 
 .main_section {
-    padding: 4% 10%;
+    padding: 4vh 10vw;
 }
 
 .main_section li {
