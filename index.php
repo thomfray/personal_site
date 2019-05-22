@@ -11,19 +11,16 @@
     <title>About</title>
 </head>
 <body>
-    <div class="grid-wrapper">
+    <div class="wrapper">
 
         <?php include("includes/header-nav.php"); ?>
 
         <div id="main_section_home" class="main_section">
             <h1>What is this site about?</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.
-            </p>
+            
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?</p>
 
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.</p>
         </div>
 
 
@@ -32,4 +29,4 @@
     </div>
 
 </body>
-</html>
+</html> -->

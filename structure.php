@@ -15,15 +15,25 @@
 
         <?php include("includes/header-nav.php"); ?>
 
-        <div id="main_section_home" class="main_section">
-            <h1>What is this site about?</h1>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.
-            </p>
+        <div id="main_section_PAGENAME" class="main_section_full_width // main_section_side_bar">
+            <section>
+                <h1>SECTION TITLE</h1>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.
+                </p>
+            </section>
 
+            <aside>
+                <h2>ASIDE TITLE</h2>
+                <ul>
+                    <li>Item 1</li>
+                    <li>Item 2</li>
+                    <li>Item 3</li>
+                </ul>
+            </aside>
         </div>
 
 
@@ -33,3 +43,6 @@
 
 </body>
 </html>
+
+
+<!-- TODO Take this template and convert the existing pages
