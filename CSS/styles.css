@@ -22,6 +22,12 @@ ul {
 
 
 
+/*
+    TODO    Add styling to ".main_section > p" (all paragraphs within main sections) to add a (5px? grey?) left border
+            Add left padding to indent the text.
+            Aim: the left border lines up with the headers with the text indented. Inspired by Codecademy emails.
+*/
+
 .grid-wrapper {
     display: grid;
     background-color: #f4f4f4;
