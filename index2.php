@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="CSS/styles.css">   
     <!-- <link rel="stylesheet" href="CSS/TESTstyles.css"> -->
 
-    <title>About</title>
+    <title>Home</title>
 </head>
 <body>
     <div class="wrapper">
@@ -18,21 +18,12 @@
         <div id="main_section_home" class="main_section_full_width">
             <section>
                 <h1>What is this site about?</h1>
+
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?</p>
 
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.</p>
             </section>
-
-            <!-- <aside>
-                <h2>ASIDE TITLE</h2>
-                <ul>
-                    <li>Item 1</li>
-                    <li>Item 2</li>
-                    <li>Item 3</li>
-                </ul>
-            </aside> -->
         </div>
-
 
         <?php include("includes/footer.php"); ?>
 
@@ -41,5 +32,3 @@
 </body>
 </html>
 
-
-<!-- TODO Take this template and convert the existing pages
