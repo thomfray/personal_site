@@ -5,28 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <link rel="stylesheet" href="CSS/styles.css">   
+    <link rel="stylesheet" href="CSS/style.css">   
     <!-- <link rel="stylesheet" href="CSS/TESTstyles.css"> -->
 
-    <title>About</title>
+    <title>Home</title>
 </head>
 <body>
-    <div class="wrapper">
+    <div id="wrapper">
 
-        <?php include("includes/header-nav.php"); ?>
+        <!-- Include Header -->
+        <?php include("./includes/header.php"); ?>
 
-        <div id="main_section_home" class="main_section">
-            <h1>What is this site about?</h1>
+        <!-- Include Nav -->
+        <?php include("./includes/nav.php"); ?>
+
+        <section id="main_section_home">
+            <article id="about_this">
+                <h2>The intention of this site</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, odit ullam molestiae enim ut ad adipisci unde omnis molestias fuga et magnam, debitis dolor ea! Officiis reprehenderit at praesentium aut?</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate expedita corporis temporibus odio, veritatis velit praesentium eos repudiandae maiores quisquam, cumque voluptatibus. At esse, obcaecati et aperiam quaerat ut vero.</p>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor explicabo omnis rerum, nostrum accusantium quos veniam suscipit eveniet cumque, ratione beatae possimus temporibus cum eius, quasi iusto recusandae? Ratione, at?</p>
+            </article>
             
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quos excepturi dolores voluptates, quod facilis quidem nesciunt, incidunt quas molestias, tenetur necessitatibus laborum iure illum quia dicta. Necessitatibus, neque nihil?</p>
+        </section>
 
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat consectetur atque adipisci enim qui reprehenderit fugiat odio laudantium, nam, iure laboriosam magnam, natus nesciunt voluptatum illum culpa perspiciatis voluptates necessitatibus.</p>
-        </div>
-
-
-        <?php include("includes/footer.php"); ?>
+        <!-- Include Footer -->
+        <?php include("./includes/footer.php"); ?>
 
     </div>
 
 </body>
-</html> -->
+</html>
+
+
+<!-- TODO Take this template and convert the existing pages

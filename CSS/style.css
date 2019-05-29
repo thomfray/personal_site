@@ -1,0 +1,78 @@
+
+
+/* General styles  */
+
+#wrapper {
+    width: 80vw;
+    margin: auto;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    color: firebrick;
+}
+
+
+/* -------
+    Header
+---------- */
+
+#main_header {
+    padding: 1em 0;
+    background-color: peru;
+}
+
+
+/* Nav */
+
+#main_nav {
+    padding: 1em 0;
+    background-color: palegoldenrod;
+}
+#main_nav ul {
+    text-align: center;
+}
+
+#main_nav li {
+    display: inline-block;
+    text-align: center;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
+#main_section_home {
+    padding: 2em 7em;
+}
+
+
+
+
+/* Footer */
+
+#main_footer {
+    text-align: center;
+}
+
+
+

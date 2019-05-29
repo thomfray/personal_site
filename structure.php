@@ -11,7 +11,25 @@
     <title>About</title>
 </head>
 <body>
-    <div class="grid-wrapper">
+    <div class="wrapper">
+
+        <!-- Include Header -->
+        <?php include("./includes/header.php"); ?>
+
+        <!-- Include Nav -->
+        <?php include("nav.php"); ?>
+
+        <section>
+            <div class="container">
+
+            </div>
+        </section>
+
+        <!-- Include Footer -->
+        <?php include("includes/footer.php"); ?>
+
+
+
 
         <?php include("includes/header-nav.php"); ?>
 
@@ -37,7 +55,7 @@
         </div>
 
 
-        <?php include("includes/footer.php"); ?>
+
 
     </div>
 
