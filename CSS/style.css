@@ -2,6 +2,16 @@
 
 /* General styles  */
 
+body {
+    margin: 0;
+    padding: 0;
+    line-height:1.6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:16px;
+    font-weight:normal;
+    background-color: #003366;
+}
+
 #wrapper {
     width: 80vw;
     margin: auto;
@@ -29,7 +39,7 @@ a {
 }
 
 a:hover {
-    color: firebrick;
+    color: #662700;
 }
 
 
@@ -39,7 +49,10 @@ a:hover {
 
 #main_header {
     padding: 1em 0;
-    background-color: peru;
+    color: #003366;
+    background-image: linear-gradient(to right, #003366, #fff, #003366);
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
 }
 
 
@@ -47,7 +60,8 @@ a:hover {
 
 #main_nav {
     padding: 1em 0;
-    background-color: palegoldenrod;
+    color: #003366;
+    background-image: linear-gradient(to right, #003366, #fff, #003366);
 }
 #main_nav ul {
     text-align: center;
@@ -61,8 +75,12 @@ a:hover {
 }
 
 
+
+/* Main Section  */
+
 #main_section_home {
     padding: 2em 7em;
+    color: #fff;
 }
 
 
@@ -72,6 +90,8 @@ a:hover {
 
 #main_footer {
     text-align: center;
+    color: #003366;
+    background-image: linear-gradient(to right, #003366, #fff, #003366);
 }
 
 
